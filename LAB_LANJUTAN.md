@@ -133,8 +133,7 @@ Kriteria penilaian: argumen disusun sendiri, bukan ringkasan tempelan dari beber
 
 - `jawaban/lanjutan_hands_on.md` — laporan Masalah 1 sampai 3: perintah yang dijalankan, seluruh tabel, tangkapan layar atau grafik, dan analisis tiap masalah.
 - Kode hands-on masuk repo: paket `src/stanley_lab/`, skrip perencanaan di folder `perencana/` yang Anda buat sendiri, beserta petunjuk menjalankannya yang ditulis di laporan.
-- `jawaban/lanjutan_riset.md` — laporan riset sesuai struktur di atas.
-- `jawaban/lab1.md` dan `jawaban/lab2.md` lengkap sebagai prasyarat.
+- `jawaban/lanjutan_riset.pdf` — laporan riset sesuai struktur di atas.
 
 Masalah 4 dan 5 hanya dikumpulkan kalau dikerjakan.
 
