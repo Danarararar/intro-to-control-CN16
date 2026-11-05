@@ -1,0 +1,7 @@
+pursuit_node:
+  ros__parameters:
+    ld: 0.8
+    speed: 1.0
+    ld_adaptive: false
+    ld_k: 1.0
+    ld_min: 0.5

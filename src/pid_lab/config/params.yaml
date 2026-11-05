@@ -1,0 +1,5 @@
+pid_node:
+  ros__parameters:
+    kp: 5.0
+    ki: 6.0
+    kd: 0.0
